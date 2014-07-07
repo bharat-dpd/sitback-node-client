@@ -1,0 +1,15 @@
+{
+  "name": "sitback-client-node",
+  "version": "0.0.1",
+  "description": "Transactional Email API Client (Node)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samal Gorai",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "request": "^2.36.0"
+  }
+}
