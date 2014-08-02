@@ -1,5 +1,5 @@
 {
-  "name": "sitback-client-node",
+  "name": "sitback-node-client",
   "version": "0.0.1",
   "description": "Transactional Email API Client (Node)",
   "main": "index.js",
