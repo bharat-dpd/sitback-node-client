@@ -6,8 +6,8 @@ var b = sit({appId:"53d22fca5c651733174542bf",appKey:"34e4",appSecret:"sdf343r$%
 
 b.send({
   sender:"samalgorai@gmail.com",
-  receiver:"samalgorai@gmail.com",
-  mail_type:"d",
+  receiver:["samalgorai@gmail.com"],
+  mail_type:"Test",
   data:{
    name:"Samal"
   }
