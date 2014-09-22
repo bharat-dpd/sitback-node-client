@@ -5,11 +5,12 @@ var b = sit({appId:"53dc935398fb601229cf594b",appKey:"34e4",appSecret:"sdf343r$%
 
 
 b.send({
-  sender:"samal@treashare.in",
-  receiver:"samal@treashare.in",
-  mail_type:"notfound",
+  sender:"samalgorai@gmail.com",
+  receiver:["samalgorai@gmail.com"],
+  mail_type:"Test",
   data:{
-   name:"Samal"
+   name:"Samal",
+   random:Math.random()*10000000,
   }
 },function(err,body){
   console.log(err,body);
