@@ -12,6 +12,7 @@
     "crypto": "0.0.3",
     "request": "^2.36.0",
     "underscore": "^1.6.0",
-    "validator": "^3.16.1"
+    "validator": "^3.16.1",
+    "pkginfo":"0.3.0"
   }
 }
