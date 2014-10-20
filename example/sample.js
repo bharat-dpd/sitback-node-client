@@ -7,7 +7,7 @@ var b = sit({appId:"53dc935398fb601229cf594b",token:"34e4",appSecret:"sdf343r$%F
 b.send({
   sender:"samalgorai@gmail.com",
   receiver:["samalgorai@gmail.com"],
-  mail_type:"Test",
+  mail_type:"test",
   data:{
    name:"Samal",
    random:Math.random()*10000000
